@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  justify-items: center;
+  background-color: #2b3d63;
+  color: white;
+}
+.bloc{
+  padding: 60px;
+  background-color: #282c34;
+  width: 800px;
+  margin: 0 auto;
+  border-radius: 20px;
 }
 
 .App-logo {
